@@ -1,4 +1,4 @@
 # CsSnake
 a snake game made in .net core
-#compiling
+# compiling
 download the .net core framework and use the "dotnet run" command
