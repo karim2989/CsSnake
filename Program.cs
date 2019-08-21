@@ -18,6 +18,7 @@ namespace CsSnake
         private static int tickRate = 5;
         static void Main(string[] args)
         {
+            Console.Clear();
             Init();
             Start();
             while (true)
