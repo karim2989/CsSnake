@@ -48,7 +48,7 @@ namespace CsSnake
                     }
                     break;
                 case ConsoleKey.A:
-                case ConsoleKey.RightArrow:
+                case ConsoleKey.LeftArrow:
                     {
                         if (direction != Cords.right)
                         {
@@ -57,7 +57,7 @@ namespace CsSnake
                     }
                     break;
                 case ConsoleKey.D:
-                case ConsoleKey.LeftArrow:
+                case ConsoleKey.RightArrow:
                     {
                         if (direction != Cords.left)
                         {
